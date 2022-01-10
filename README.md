@@ -1,4 +1,4 @@
 # Business-Analitics
-Final Project from KMMI \n
-Analysis Rating Google Play Store Model with \n
+Final Project from KMMI
+Analysis Rating Google Play Store Model with
 Naïve Bayes, Random Forest and K-Means Algorithm
